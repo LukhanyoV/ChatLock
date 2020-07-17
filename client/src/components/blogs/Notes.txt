@@ -1,0 +1,2 @@
+MESSGES:
+    Auto Delete Each Message Per 24H
